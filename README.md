@@ -58,9 +58,9 @@ Replacing `-c` with `-x` will compile without opening a separate compiler window
 
 <a name="Additional_Info"></a>
 # Additional Information
-More about QB64 at our wiki: www.qbasic.net/wiki
+More about QB64 at our wiki: www.qbasic.org/wiki
 
-We have a community forum at: www.qbasic.net/forum
+We have a community forum at: www.qbasic.org/forum
 
 We tweet from [@QB64Team](https://twitter.com/QB64team)
 
